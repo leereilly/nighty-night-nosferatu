@@ -132,7 +132,7 @@ export const propSpecs = {
     (scene) => scene.command.ignoreAll("winning"),
   ],
 
-  "player.speed": [150, 1, 1000],
+  "player.speed": [300, 1, 3000],
   "player.drag": [0.3, 0, 1],
   "player.gravityBase": [3000, 1, 10000],
   "player.baseJumpVelocity": [300, 1, 1000],
